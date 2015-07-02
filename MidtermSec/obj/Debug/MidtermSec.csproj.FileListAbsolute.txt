@@ -50,6 +50,5 @@ C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\bin\Mi
 C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\obj\Debug\MidtermSec.csprojResolveAssemblyReference.cache
 C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\obj\Debug\MidtermSec.dll
 C:\Users\Justin\Documents\1School\Game & Simulation\MidtermSec\MidtermSec\obj\Debug\MidtermSec.pdb
